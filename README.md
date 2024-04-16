@@ -34,14 +34,16 @@
 | 其他服务     | 企业版源码购买；定制化开发；定制化时长、功能服务等 | 面议     | 面议                            |
 
 付费服务支持或商务合作请联系
-
-![输入图片说明](img/image-20240416104358436.png)
+<table>
+    <tr>
+        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/image-20240416104358436.png"/></td>
+</table>
 
 #### 七、部分设计图
 <table>
     <tr>
-        <td width="450px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/01%E9%A6%96%E9%A1%B5.png"/></td>
-        <td width="450px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/02%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png"/></td>
+        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/01%E9%A6%96%E9%A1%B5.png"/></td>
+        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/02%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png"/></td>
     </tr>
     <tr>
         <td><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/04%E7%83%AD%E9%97%A8%E6%94%BB%E7%95%A5.png"/></td>
@@ -65,5 +67,8 @@
 #### 十、体验
 体验演示版，请联系客服微信（使用微信扫码添加好友，请注明“自定义智慧文旅”）。 如需购买商业版源码 请联系客服。
 
-![输入图片说明](img/image-20240416104358436.png)
+<table>
+    <tr>
+        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/image-20240416104358436.png"/></td>
+</table>
 
