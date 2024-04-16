@@ -42,8 +42,8 @@
 #### 七、部分设计图
 <table>
     <tr>
-        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/01%E9%A6%96%E9%A1%B5.png"/></td>
-        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/02%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png"/></td>
+        <td width="300px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/01%E9%A6%96%E9%A1%B5.png"/></td>
+        <td width="300px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/02%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png"/></td>
     </tr>
     <tr>
         <td><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/04%E7%83%AD%E9%97%A8%E6%94%BB%E7%95%A5.png"/></td>
