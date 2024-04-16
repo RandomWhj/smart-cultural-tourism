@@ -1,9 +1,17 @@
-# 智慧文旅系统开源代码
+<p align="center">
+	<img alt="logo" src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/logo2.png" width="100" height="100">
+</p>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">智慧文旅系统</h1>
+<h4 align="center">开源代码，推动旅游行业数字化 </h4>
+<p align="center">
+
+</p>
+
+---
 
 #### 一、产品概述
 
 智慧文旅系统，致力于为旅游行业提供全面、智能的解决方案，旨在提升旅游体验、优化资源配置、促进旅游产业的可持续发展。产品的主要目标包括满足游客的个性化需求，提供便捷、高效的服务；帮助旅游企业提高管理效率，降低成本；同时，推动旅游行业的数字化转型和创新发展。
-
 #### 二、软件架构
 
 - 本软件采用的是uniapp+JAVA语言开发，编码规范完全按照阿里巴巴编码规范
