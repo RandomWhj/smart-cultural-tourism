@@ -36,7 +36,7 @@
 付费服务支持或商务合作请联系
 <table>
     <tr>
-        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/image-20240416104358436.png"/></td>
+        <td width="200px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/image-20240416104358436.png"/></td>
 </table>
 
 #### 七、部分设计图
@@ -69,6 +69,6 @@
 
 <table>
     <tr>
-        <td width="350px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/image-20240416104358436.png"/></td>
+        <td width="200px"><img src="https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/image-20240416104358436.png"/></td>
 </table>
 
