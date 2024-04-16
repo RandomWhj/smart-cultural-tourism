@@ -35,7 +35,7 @@
 
 ### ** 付费**服务支持或商务合作请联系
 
-<img src="C:\Users\18810\AppData\Roaming\Typora\typora-user-images\image-20240416104358436.png" alt="image-20240416104358436" style="zoom:50%;" />
+![输入图片说明](img/image-20240416104358436.png)
 
 #### 七、部分设计图
 
@@ -59,8 +59,7 @@
 #### 十、体验
 体验演示版，请联系客服微信（使用微信扫码添加好友，请注明“自定义智慧文旅”）。 如需购买商业版源码 请联系客服。
 
-<img src="C:\Users\18810\AppData\Roaming\Typora\typora-user-images\image-20240416104531942.png" alt="image-20240416104531942" style="zoom:25%;" />
-
+![输入图片说明](img/image-20240416104358436.png)
 
 
 #### 特技
