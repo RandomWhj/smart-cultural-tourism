@@ -35,11 +35,11 @@
 
 ### ** 付费**服务支持或商务合作请联系
 
-<img src="img/image-20240416104358436.png" alt="输入图片说明" style="zoom:50%;" />
+![输入图片说明](img/image-20240416104358436.png)
 
 #### 七、部分设计图
-<img src="img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/01%E9%A6%96%E9%A1%B5.png" alt="输入图片说明" style="zoom:33%;" /><img src="img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/02%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png" alt="输入图片说明" style="zoom:33%;" />
-<img src="img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/04%E7%83%AD%E9%97%A8%E6%94%BB%E7%95%A5.png" alt="输入图片说明" style="zoom:33%;" /><img src="img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/03%E6%88%91%E7%9A%84%E8%AE%A2%E5%8D%95.png" alt="输入图片说明" style="zoom:33%;" />
+![输入图片说明](img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/01%E9%A6%96%E9%A1%B5.png)![输入图片说明](img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/02%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+![输入图片说明](img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/04%E7%83%AD%E9%97%A8%E6%94%BB%E7%95%A5.png)![输入图片说明](img/%E7%A7%BB%E5%8A%A8%E7%AB%AF/03%E6%88%91%E7%9A%84%E8%AE%A2%E5%8D%95.png)
 
 
 
@@ -52,8 +52,7 @@
 	
 	在智慧文旅平台管理端，我们不仅能够全面管理景区景点，还具备发布旅游公告的功能，确保游客能够第一时间获取最新的信息通知。此外，平台还协助政府建立了旅游投诉与建议机制，以便相关部门在收到问题后能够迅速响应，有效解决游客在旅行中遇到的困难。我们致力于通过智慧化的管理手段，不断提升旅游服务的质量和效率。我们致力于通过智慧化的管理手段，不断提升旅游服务的质量和效率。
 
-![image-20240416103507002](C:\Users\18810\AppData\Roaming\Typora\typora-user-images\image-20240416103507002.png)
-
+![输入图片说明](img/image-20240416103507002.png)
 
 
 #### 十、体验
