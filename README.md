@@ -25,8 +25,7 @@
 
 付费服务支持或商务合作请联系
 
-![输入图片说明](img/%E5%85%B6%E4%BB%96/%E5%AE%A2%E6%9C%8D%E5%BE%AE%E4%BF%A1-%E5%88%98%E6%B4%8B.jpg)
-
+https://gitee.com/randomeng/smart-cultural-tourism/raw/master/img/%E5%85%B6%E4%BB%96/%E5%AE%A2%E6%9C%8D%E5%BE%AE%E4%BF%A1-%E5%88%98%E6%B4%8B.jpg
 #### 三、亮点功能
 
 
